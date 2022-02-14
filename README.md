@@ -1,6 +1,6 @@
 ***Juego llamado pensante (Lo jugamos con mis amigos de forma fisica)***
 
-**reglas:**
+**Reglas:**
  - Hay un total de 86 letras, cuanto mas comun una letra mas de ella hay (hay mas vocales que consonantes por ejemplo)
  - Tenes 5 turnos en los cuales recibis 9 letras
  - Tenes que formar palabras con esas letras
